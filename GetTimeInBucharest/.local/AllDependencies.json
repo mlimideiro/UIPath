@@ -683,9 +683,9 @@
     "restore": {
       "projectUniqueName": "GetTimeInBucharest",
       "projectName": "GetTimeInBucharest",
-      "projectPath": "E:\\Documentos\\UiPath\\GetTimeInBucharest\\.local",
+      "projectPath": "C:\\UIPath\\GetTimeInBucharest\\.local",
       "packagesPath": "C:\\Users\\Marce\\.nuget\\packages\\",
-      "outputPath": "E:\\Documentos\\UiPath\\GetTimeInBucharest\\.local"
+      "outputPath": "C:\\UIPath\\GetTimeInBucharest\\.local"
     },
     "frameworks": {
       "net461": {
@@ -711,6 +711,13 @@
       "warningLevel": 1,
       "message": "Package 'Extended.Wpf.Toolkit 2.8' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
       "libraryId": "Extended.Wpf.Toolkit"
+    },
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.SignalR.Client 2.4.0' from source 'https://www.myget.org/F/workflow/': This package is signed but not by a trusted signer.",
+      "libraryId": "Microsoft.AspNet.SignalR.Client"
     },
     {
       "code": "NU3034",

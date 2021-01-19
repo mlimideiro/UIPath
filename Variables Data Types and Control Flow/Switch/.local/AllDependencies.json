@@ -3492,9 +3492,9 @@
     "restore": {
       "projectUniqueName": "Switch",
       "projectName": "Switch",
-      "projectPath": "E:\\Documentos\\UiPath\\Switch\\.local",
+      "projectPath": "E:\\Documentos\\UiPath\\Variables Data Types and Control Flow\\Switch\\.local",
       "packagesPath": "C:\\Users\\Marce\\.nuget\\packages\\",
-      "outputPath": "E:\\Documentos\\UiPath\\Switch\\.local"
+      "outputPath": "E:\\Documentos\\UiPath\\Variables Data Types and Control Flow\\Switch\\.local"
     },
     "frameworks": {
       "net461": {

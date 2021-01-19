@@ -3490,11 +3490,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "If Statements",
-      "projectName": "If Statements",
-      "projectPath": "E:\\Documentos\\UiPath\\Variables Data Types and Control Flow\\If Statements\\.local",
+      "projectUniqueName": "DataTables",
+      "projectName": "DataTables",
+      "projectPath": "E:\\Documentos\\UiPath\\Excel and Data Tables\\DataTables\\.local",
       "packagesPath": "C:\\Users\\Marce\\.nuget\\packages\\",
-      "outputPath": "E:\\Documentos\\UiPath\\Variables Data Types and Control Flow\\If Statements\\.local"
+      "outputPath": "E:\\Documentos\\UiPath\\Excel and Data Tables\\DataTables\\.local"
     },
     "frameworks": {
       "net461": {

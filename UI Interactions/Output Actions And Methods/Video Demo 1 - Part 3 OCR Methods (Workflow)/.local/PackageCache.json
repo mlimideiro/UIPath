@@ -1,0 +1,226 @@
+{
+  "Packages": [
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "[2.7.0-alpha.365861]"
+      },
+      "Assemblies": [],
+      "Path": null
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "[1.6.0-alpha.365861]"
+      },
+      "Assemblies": [],
+      "Path": null
+    },
+    {
+      "Package": {
+        "Id": "UiPath.System.Activities",
+        "Version": "[19.6.0-beta.366046]"
+      },
+      "Assemblies": [],
+      "Path": null
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "19.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Marce\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath/19.5.7079.28746\\lib/UiPath.Interop.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.ocr.contracts/1.0.0\\lib/net45/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities/19.5.0\\lib/net461/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities/19.5.0\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities/19.5.0\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities/19.5.0\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities/19.5.0\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities/19.5.0\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities/19.5.0\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities/19.5.0\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities/19.5.0\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities/19.5.0\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities/19.5.0\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities/19.5.0\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities/19.5.0\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities/19.5.0\\lib/net461/UiPath.Wizards.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.vision/1.6.0\\lib/net452/UiPath.Vision.AbbyyCloud.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.vision/1.6.0\\lib/net452/UiPath.Vision.AbbyyFRE11.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.vision/1.6.0\\lib/net452/UiPath.Vision.AbbyyFRE12.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.vision/1.6.0\\lib/net452/UiPath.Vision.AbbyyFRECommon.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.vision/1.6.0\\lib/net452/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.vision/1.6.0\\lib/net452/UiPath.Vision.Core.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.vision/1.6.0\\lib/net452/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.vision/1.6.0\\lib/net452/UiPath.Vision.Microsoft.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.vision/1.6.0\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.vision/1.6.0\\lib/net452/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.vision/1.6.0\\lib/net452/UiPath.Vision.dll"
+      ],
+      "Path": "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0"
+    }
+  ],
+  "Conflicts": [],
+  "ResolvedDependencies": {
+    "AvalonEdit": {
+      "Id": "AvalonEdit",
+      "Version": "5.0.3",
+      "Dependencies": []
+    },
+    "Extended.Wpf.Toolkit": {
+      "Id": "Extended.Wpf.Toolkit",
+      "Version": "2.8.0",
+      "Dependencies": []
+    },
+    "Humanizer.Core": {
+      "Id": "Humanizer.Core",
+      "Version": "2.4.2",
+      "Dependencies": []
+    },
+    "UiPath": {
+      "Id": "UiPath",
+      "Version": "19.5.7079.28746",
+      "Dependencies": []
+    },
+    "UiPath.OCR.Contracts": {
+      "Id": "UiPath.OCR.Contracts",
+      "Version": "1.0.0",
+      "Dependencies": []
+    },
+    "UiPath.UIAutomation.Activities": {
+      "Id": "UiPath.UIAutomation.Activities",
+      "Version": "19.5.0",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.Vision",
+          "Item2": "[1.6.0, )"
+        },
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[1.0.0, )"
+        },
+        {
+          "Item1": "AvalonEdit",
+          "Item2": "[5.0.3, )"
+        },
+        {
+          "Item1": "Extended.Wpf.Toolkit",
+          "Item2": "[2.8.0, )"
+        },
+        {
+          "Item1": "Humanizer.Core",
+          "Item2": "[2.4.2, )"
+        },
+        {
+          "Item1": "UiPath",
+          "Item2": "[19.5.7079.28746, )"
+        }
+      ]
+    },
+    "UiPath.Vision": {
+      "Id": "UiPath.Vision",
+      "Version": "1.6.0",
+      "Dependencies": []
+    }
+  },
+  "AllPackages": [
+    {
+      "Package": {
+        "Id": "AvalonEdit",
+        "Version": "5.0.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\Marce\\.nuget\\packages\\avalonedit\\5.0.3\\lib\\Net40\\ICSharpCode.AvalonEdit.dll"
+      ],
+      "Path": "C:\\Users\\Marce\\.nuget\\packages\\avalonedit\\5.0.3"
+    },
+    {
+      "Package": {
+        "Id": "Extended.Wpf.Toolkit",
+        "Version": "2.8.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Marce\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.Toolkit.dll"
+      ],
+      "Path": "C:\\Users\\Marce\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0"
+    },
+    {
+      "Package": {
+        "Id": "Humanizer.Core",
+        "Version": "2.4.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Marce\\.nuget\\packages\\humanizer.core\\2.4.2\\lib\\netstandard2.0\\Humanizer.dll"
+      ],
+      "Path": "C:\\Users\\Marce\\.nuget\\packages\\humanizer.core\\2.4.2"
+    },
+    {
+      "Package": {
+        "Id": "UiPath",
+        "Version": "19.5.7079.28746"
+      },
+      "Assemblies": [
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath\\19.5.7079.28746\\lib\\UiPath.Interop.dll"
+      ],
+      "Path": "C:\\Users\\Marce\\.nuget\\packages\\uipath\\19.5.7079.28746"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.OCR.Contracts",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.ocr.contracts\\1.0.0\\lib\\net45\\UiPath.OCR.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\Marce\\.nuget\\packages\\uipath.ocr.contracts\\1.0.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "19.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0\\lib\\net461\\ActiproSoftware.DataGrid.Contrib.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0\\lib\\net461\\ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0\\lib\\net461\\UiPath.Wizards.dll"
+      ],
+      "Path": "C:\\Users\\Marce\\.nuget\\packages\\uipath.uiautomation.activities\\19.5.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Vision",
+        "Version": "1.6.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.vision\\1.6.0\\lib\\net452\\UiPath.Vision.Core.dll",
+        "C:\\Users\\Marce\\.nuget\\packages\\uipath.vision\\1.6.0\\lib\\net452\\UiPath.Vision.dll"
+      ],
+      "Path": "C:\\Users\\Marce\\.nuget\\packages\\uipath.vision\\1.6.0"
+    }
+  ]
+}

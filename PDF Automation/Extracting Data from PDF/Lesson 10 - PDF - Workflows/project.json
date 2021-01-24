@@ -1,0 +1,56 @@
+{
+  "name": "Academy",
+  "description": "Blank Process",
+  "main": "PDF Examples.xaml",
+  "dependencies": {
+    "System.IO.Abstractions": "[3.0.10]",
+    "UiPath.Excel.Activities": "[2.4.6863.30657]",
+    "UiPath.Mail.Activities": "[1.1.6562.21018]",
+    "UiPath.PDF.Activities": "[3.3.0]",
+    "UiPath.System.Activities": "[18.3.6864.20561]",
+    "UiPath.UIAutomation.Activities": "[18.3.6877.28298]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.10.3.0",
+  "projectVersion": "1.0.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "PDF Examples.xaml",
+      "uniqueId": "159b3f4d-eca9-44ee-b03d-5aa59af06074",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {}
+}
